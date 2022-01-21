@@ -39,5 +39,4 @@ More about Cosine Similarity : [Understanding the Math behind Cosine Similarity]
 
 ### Sources of the datasets 
 
-[IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
-
+[IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset) 
