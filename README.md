@@ -22,9 +22,6 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 10. Hurray! That's it.
 
 
-## Architecture
-
-![IMG-20210306-WA0012](https://user-images.githubusercontent.com/36665975/110212434-597bb700-7ec1-11eb-9ffa-7ac319e33123.jpg)
 
 ## Similarity Score : 
 
