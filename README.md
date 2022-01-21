@@ -13,7 +13,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 
 1. Clone or download this repository to your local machine.
 2. Create two empty folders named `/models` and `/datasets` in the same directory.
-3. After that download the datasets from ![here]https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv. and save the datasets in the `/datasets` direcotry.
+3. After that download the datasets from [here!](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv). and save the datasets in the `/datasets` direcotry.
 4. Open your terminal/command prompt from your project directory and run the file `recommend.py` by executing the command `python3 recommend.py`.
 5. Install all the libraries mentioned in the [requirements.txt](https://github.com/qwertyz15/Movie-Recommendation-App/blob/main/requirements.txt) file with the command `pip install -r requirements.txt`
 6. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key)
