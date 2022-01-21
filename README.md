@@ -10,7 +10,6 @@
 Create an account in https://www.themoviedb.org/, click on the `API` link from the left hand sidebar in your account settings and fill all the details to apply for API key. If you are asked for the website URL, just give "NA" if you don't have one. You will see the API key in your `API` sidebar once your request is approved.
 
 ## How to run the project?
-
 1. Clone or download this repository to your local machine.
 2. Create two empty folders named `/models` and `/datasets` in the same directory.
 3. After that download the datasets from [here!](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv). and save the datasets in the `/datasets` direcotry.
